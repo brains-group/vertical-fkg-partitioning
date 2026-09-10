@@ -118,3 +118,16 @@ minimum cut.
 ## License
 
 MIT. See `LICENSE`.
+
+## Citation
+
+If you use this code or the associated research in your work, please cite our paper:
+
+```bibtex
+@inproceedings{bappy2026cost,
+  title={{Cost Characterization of Vertically Partitioned Federated Knowledge Graphs}},
+  author={Md Saikat Islam Khan Bappy and Seneviratne, Oshani},
+    year = {2026},
+    month = {11},
+    booktitle = {DMKG2026: 2nd International Workshop on Data Management for Knowledge Graphs at ISWC 2026},
+}
